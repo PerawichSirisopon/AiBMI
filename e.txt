@@ -1,0 +1,12 @@
+ --------------------
+|   BMI Calculator   |
+ --------------------
+|                    |
+| - weight: float    |
+| - height: float    |
+|                    |
+| + setWeight(w: float): void |
+| + setHeight(h: float): void |
+| + calculateBMI(): float     |
+| + getCategory(): string    |
+ --------------------
